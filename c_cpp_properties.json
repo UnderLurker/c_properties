@@ -1,0 +1,16 @@
+{
+    "version": 0,
+    "configurations": [{
+            "name": "Win64",
+            "includePath": [
+                "F:/mingw64/include/*",
+                "F:/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/*"
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": ""
+            }
+        }
+
+    ]
+}
